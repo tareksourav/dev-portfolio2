@@ -13,6 +13,7 @@ h3{
 }
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width{
@@ -29,7 +30,7 @@ section {
 }
 .link-dec{
     text-decoration: none;
-    background-image: linear-gradient(rgb(221, 151, 22), tomato);
+    background-image: linear-gradient(rgb(238, 98, 98), tomato);
     color: white;
     font-weight: 700;
     border-radius: 5px;
